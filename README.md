@@ -20,7 +20,7 @@ $ make docker_bash
 $ yarn test
 ```
 
-## Sample Pages
+## Pages
 ### Demo user
 [Demo user](https://github.com/walkersumida/rails-api-for-nuxtjs#demo-user).
 
