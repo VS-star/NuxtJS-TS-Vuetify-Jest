@@ -21,8 +21,6 @@ $ yarn test
 ```
 
 ## Pages
-### Demo user
-[Demo user](https://github.com/walkersumida/rails-api-for-nuxtjs#demo-user).
 
 ### sign in
 http://0.0.0.0:8080/sign_in
